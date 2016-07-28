@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ILMergeX\ILMergeX\obj\Debug\ILMergeX.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ILMergeX\ILMergeX\obj\Debug\ILMergeX.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ILMergeX\ILMergeX\obj\Debug\ILMergeX.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ILMergeX\ILMergeX\bin\Debug\GoodHelper.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ILMergeX\ILMergeX\bin\Debug\GoodHelper.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ILMergeX\ILMergeX\bin\Debug\DLL合成工具.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ILMergeX\ILMergeX\bin\Debug\DLL合成工具.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ILMergeX\ILMergeX\bin\Debug\DLL合成工具.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ILMergeX\ILMergeX\obj\Debug\DLL合成工具.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ILMergeX\ILMergeX\obj\Debug\DLL合成工具.pdb
